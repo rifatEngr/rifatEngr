@@ -34,4 +34,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS / TAILWIND CSS / BOOTSTRAP/
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rifatEngr/contributions?format=svg&private=false)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mrifatEngr)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rifatEngr)
+
